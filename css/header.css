@@ -1,0 +1,65 @@
+header{
+    margin: 0 auto; 
+    height: 20px;
+    width: 1170px;
+    margin-top: 40px;
+}
+
+.logotip{
+    width: 280px;
+    height: 20px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 17.5px;
+    cursor: default;
+}
+
+span{
+    color: #66CC99;
+    font-weight: 700;
+}
+
+.social{
+    font-weight: 500;
+    font-size: 17.5px;
+    color: #fff;
+
+}
+
+.inline{
+    display: inline-flex;
+}
+
+.soc{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+
+.me{
+    width: 90px;
+    margin-left: 60px;
+    cursor: pointer;
+}
+
+.skil{
+    width: 117px;
+    margin-left: 60px;
+    cursor: pointer;   
+}
+
+.usl{
+    width: 77px;
+    margin-left: 60px;
+    cursor: pointer;   
+}
+
+.telef{
+    margin-left: 60px;
+    width: 170px;
+    cursor: pointer;
+}
+.telef a{
+    color: #66CC99;
+    font-weight: 700;
+}
